@@ -1,0 +1,7 @@
+Requirements :
+
+pycharm platform or vs code 
+
+install pygame 
+
+and you can download the file form this link : https://github.com/Jashwanthjash001/f1racegame
